@@ -19,4 +19,5 @@
 - Kill the stipulated number of enemies in 10 seconds. With each horde, more enemies appear. 
 - It's just a prototype yet. This will just be a game mode in the end. The main game mode will be a roguelike, with more weapons, enemies, inventory, you will be able to build things, and there will be bosses and different worlds. With each horde a new power will appear.
 
-made with LÖVE 2D
+please, leave your suggestions 
+made with LÖVE2D
