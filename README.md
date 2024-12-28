@@ -1,7 +1,7 @@
 ### Portuguese instructions
 # COMO JOGAR:
-- instale o apk
-- extraia a pasta do arquivo zip
+- instale o love-11.3-android.apk
+- extraia a pasta do arquivo lovegame.zip
 - pra funcionar, a pasta "lovegame" tem que estar no Armazenamento Interno.
 
 # DESCRIÇÃO:
@@ -10,8 +10,8 @@
 
 ### English instructions
 # HOW TO PLAY:
-- install the apk
-- extract the folder from the zip file
+- install love-11.3-android.apk
+- extract the folder from the lovegame.zip file
 - for it to work, the "lovegame" folder must be in Internal Storage.
 - there is only Android version
 
